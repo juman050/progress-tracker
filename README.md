@@ -1,2 +1,2 @@
 # progress-tracker
-Training progress tracker for customers
+Training progress tracker plugin for customers
